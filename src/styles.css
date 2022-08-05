@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#header,
+#footer,
+#content {
+  position: absolute;
+  right: 0;
+  left: 0;
+}
+
+#header {
+  height: 20px;
+  top: 0;
+  background: greenyellow;
+}
+#footer {
+  height: 20px;
+  bottom: 0;
+  background: green;
+}
+#content {
+  top: 20px;
+  bottom: 20px;
+  overflow: auto;
+}

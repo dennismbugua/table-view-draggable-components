@@ -1,0 +1,33 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.6.1",
+    "@material-ui/icons": "4.5.1",
+    "material-table": "1.54.1",
+    "react": "16.8.6",
+    "react-beautiful-dnd": "12.1.1",
+    "react-dom": "16.8.6",
+    "react-drag-and-drop": "3.0.0",
+    "react-draggable": "4.1.0",
+    "react-scripts": "3.0.1"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
